@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 network_vote: no
 title: General Fund
 author: kewde
@@ -9,7 +9,7 @@ milestones:
   - name: Milestone 1 - get a donation
     funds: 100% (1 PART)
     done:
-    status: unfinished
+    status: completed
   - name: Milestone 2 - future donations
     funds:
     done:
