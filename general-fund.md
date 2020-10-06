@@ -5,6 +5,7 @@ title: General Fund
 author: kewde
 date: October 5rd, 2020
 amount: 1
+gitlab_url: https://github.com/particl/ccs-proposals/pull/1
 milestones: 
   - name: Milestone 1 - get a donation
     funds: 100% (1 PART)
