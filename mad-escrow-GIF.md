@@ -12,7 +12,7 @@ milestones:
     status: unfinished
 
 payouts:
-  - date: Milestone - Making of the GIF
+  - date:
     amount: unfinished
 
 ---
