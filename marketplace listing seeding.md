@@ -5,6 +5,20 @@ title: Seeding Items to the Marketplace
 author: Ludx and Cryptoguard
 date: December 3rd, 2020
 amount: 20,000 PART
+milestones:
+  - name:
+    funds:
+    done:
+    status: unfinished
+  - name:
+    funds:
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+  - date:
+    amount:
 ---
 
 # Summary
