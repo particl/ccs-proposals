@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 network_vote: no
 title: MAD Escrow explained by a simple GIF
 author: Ozan
