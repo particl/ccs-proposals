@@ -6,15 +6,21 @@ author: Ludx and Cryptoguard
 date: December 3rd, 2020
 amount: 20,000 PART
 milestones:
-  - name:
-    funds:
+  - name: Immediate release for account registrations and services subscription
+    funds: 20% (4000 PART)
     done:
     status: unfinished
-  - name:
-    funds:
+  - name: Release of funds for buffer reserves during testing phase
+    funds: 37.5% (7500 PART)
+    done:
+    status: unfinished
+  - name: Final release of funds to fully fund buffer reserves + post-release time-compensation
+    funds: 42.5% (8500 PART)
     done:
     status: unfinished
 payouts:
+  - date:
+    amount:
   - date:
     amount:
   - date:
