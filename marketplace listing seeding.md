@@ -4,7 +4,7 @@ network_vote: no
 title: Seeding Items to the Marketplace
 author: Ludx and Cryptoguard
 date: December 3rd, 2020
-amount: 20,000 PART
+amount: 20000 PART
 milestones:
   - name: Immediate release for account registrations and services subscription
     funds: 20% (4000 PART)
