@@ -4,14 +4,14 @@ network_vote: no
 title: Market API documentation
 author: ffmad and Ludx
 date: January 31st, 2020
-amount: 1500 PART
+amount: 1200 PART
 milestones:
   - name: Development/Launch of the website
-    funds: 30% (500 PART)
+    funds: 20% (240 PART)
     done:
     status: unfinished
   - name: Finalization of the doc API
-    funds: 70% (1000 PART)
+    funds: 80% (960 PART)
     done:
     status: unfinished
 payouts:
@@ -45,7 +45,7 @@ It should takes around 2 weeks. Expected for mid february 2021.
 
 # Donation Target
 
-**Donation target:** 1,500 PART
+**Donation target:** 1,000 PART
 
 ## Note
 
@@ -57,9 +57,11 @@ It should takes around 2 weeks. Expected for mid february 2021.
 
 # Parties Involved
 
-- **Juha Kovanen (Ludx)** - Development, integration, and maintenance.
+- **ffmad** - Website development, API documentation
 
-- **Juha Kovanen (Ludx)** - Help.
+- **Asdrubal** - Website development, API documentation and tutorials.
+
+- **Juha Kovanen (Ludx)** - Helping .
 
 ## Note
 
