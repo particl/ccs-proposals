@@ -2,7 +2,7 @@
 layout: fr
 network_vote: no
 title: Market API documentation
-author: ffmad and Ludx
+author: ffmad
 date: January 31st, 2020
 amount: 1200 PART
 milestones:
