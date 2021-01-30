@@ -45,7 +45,7 @@ It should takes around 2 weeks. Expected for mid february 2021.
 
 # Donation Target
 
-**Donation target:** 1,000 PART
+**Donation target:** 1,200 PART
 
 ## Note
 
@@ -61,7 +61,7 @@ It should takes around 2 weeks. Expected for mid february 2021.
 
 - **Asdrubal** - Website development, API documentation and tutorials.
 
-- **Juha Kovanen (Ludx)** - Helping .
+- **Juha Kovanen (Ludx)** - Helping on API documentation.
 
 ## Note
 
