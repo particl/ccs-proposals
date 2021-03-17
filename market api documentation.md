@@ -19,8 +19,6 @@ payouts:
     amount:
   - date:
     amount:
-  - date:
-    amount:
 ---
 
 # Summary
