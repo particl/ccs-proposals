@@ -21,9 +21,9 @@ This proposal is to implement a streamlined and more efficient way to process ma
 
 # Rationale
 
-On the 25th of February, the Particl team implemented an [https://particl.news/emergency-hardfork-announcement/](emergency hardfork) to halt an ongoing vulnerability exploit that allowed an attacker to create PART coins fraudulently. To prevent the attacker from moving exploited coins after the hardfork, all anon and blind outputs have been temporarily disabled until the upcoming hardfork.
+On the 25th of February, the Particl team implemented an [emergency hardfork](https://particl.news/emergency-hardfork-announcement/) to halt an ongoing vulnerability exploit that allowed an attacker to create PART coins fraudulently. To prevent the attacker from moving exploited coins after the hardfork, all anon and blind outputs have been temporarily disabled until the upcoming hardfork.
 
-To re-enable these outputs, the team came up with a strategy involving a low-pass filter and a manual claim process. To learn more about it, please follow [https://particl.news/roadmap-to-post-inflation-hardfork/](this link).
+To re-enable these outputs, the team came up with a strategy involving a low-pass filter and a manual claim process. To learn more about it, please follow [this link](https://particl.news/roadmap-to-post-inflation-hardfork/).
 
 Initially, the team proposed that any user with disabled outputs that can’t go through the low-pass filter would have to individually put up a claim on the CSS for their outputs to be re-enabled. This would preserve a good level of decentralization and ensure the team does not have an ultimate say over what outputs can be re-enabled or not, but it also introduces its fair share of inconveniences.
 
@@ -49,7 +49,7 @@ Any user facing a rejected claim can, on their own, prepare a CCS proposal and p
 
 To submit a claim, follow these steps carefully.
 
-- Download and install [https://github.com/particl/particl-desktop/releases/tag/v2.3.6](Particl Desktop 2.3.6).
+- Download and install [Particl Desktop 2.3.6](https://github.com/particl/particl-desktop/releases/tag/v2.3.6).
 - If not already done, import all your wallets with disabled outputs.
 - Wait for the blockchain to finish syncing up.
 - **Unlock every wallet** loaded on Particl Desktop, one by one.
@@ -112,4 +112,4 @@ The management and validation of claims is provided as an entirely independent i
 
 If you have any questions regarding this proposal, the process of claiming disabled outputs, the vulnerability itself, or the solutions put in place to move forward, please visit the AMA/FAQ post currently stickied on Particl’s sub-Reddit and post it there. A member of the Particl team will be answering your questions which will double the thread as an FAQ resource for other people with similar questions.
 
-- **Access the AMA/FAQ by clicking on [https://www.reddit.com/r/Particl/comments/n0ld5d/amafaq_delegated_output_claim_management_proposal/](this link).**
+- **Access the AMA/FAQ by clicking on [this link](https://www.reddit.com/r/Particl/comments/n0ld5d/amafaq_delegated_output_claim_management_proposal/).**
