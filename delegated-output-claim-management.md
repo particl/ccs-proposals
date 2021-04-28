@@ -21,7 +21,7 @@ This proposal is to implement a streamlined and more efficient way to process ma
 
 # Rationale
 
-On the 25th of February, the Particl team implemented an [https://particl.news/emergency-hardfork-announcement/](emergency hardfork) to halt an ongoing vulnerability exploit that allowed an attacker to create PART coins fraudulently. To prevent the attacker from moving exploited coins after the hardfork, all anon and blind outputs have been temporarily disabled until the upcoming hardfork.
+On the 25th of February, the Particl team implemented an [https://particl.news/emergency-hardfork-announcement/] (emergency hardfork) to halt an ongoing vulnerability exploit that allowed an attacker to create PART coins fraudulently. To prevent the attacker from moving exploited coins after the hardfork, all anon and blind outputs have been temporarily disabled until the upcoming hardfork.
 
 To re-enable these outputs, the team came up with a strategy involving a low-pass filter and a manual claim process. To learn more about it, please follow [https://particl.news/roadmap-to-post-inflation-hardfork/](this link).
 
