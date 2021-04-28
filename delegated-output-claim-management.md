@@ -84,7 +84,7 @@ The benefits of this proposal are many:
 
 # Timeframe
 
-- This proposal will be opened up for discussion for the next seven (7) days, after which it will move to the voting phase. 
+- This proposal will be opened up for discussion for the next few days, after which it will move to the voting phase. How long it will remain in that phase mostly depends on the volume of comments and discussion.
 
 - There will be a set deadline for you to submit your outputs. Failure to submit outputs within that deadline will result in your outputs not being included in the next hardfork. You will still be able to submit outputs after this time, but if they get validated, they will be re-enabled whenever Particl does another hardfork.
 
