@@ -4,10 +4,10 @@ network_vote: yes
 title: Delegated Output Claim Management
 author: Cryptoguard
 date: April 28, 2021
-amount: 0 PART
+amount: 1 PART
 milestones:
   - name: Delegate a group of output claim managers
-    funds: 100% (0 PART)
+    funds: 100% (1 PART)
     done:
     status: unfinished
 payouts:
