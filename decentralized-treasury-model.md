@@ -87,8 +87,8 @@ Here are the signatories tasked with managing the treasury fund.
 
 # FAQ
 
-**Q: Is the 10% Foundation donation being eliminated when the treasury model goes live?**
-**A: Yes, the treasury model completely replaces the previous funding model.**
+**Q:** Is the 10% Foundation donation being eliminated when the treasury model goes live?
+**A:** Yes, the treasury model completely replaces the previous funding model.
 
-**Q: What happens to the treasury funds while they are not used? Are they staking?  Do they vote on proposals?**
-**A: Unused treasury funds simply remain untouched in the Treasury Fund. They are not put up for staking or being used to vote on proposals. Any coin in the Treasury Fund cannot be used, transacted, or staked without the approval of stakeholders.**
+**Q:** What happens to the treasury funds while they are not used? Are they staking?  Do they vote on proposals?
+**A:** Unused treasury funds simply remain untouched in the Treasury Fund. They are not put up for staking or being used to vote on proposals. Any coin in the Treasury Fund cannot be used, transacted, or staked without the approval of stakeholders.
