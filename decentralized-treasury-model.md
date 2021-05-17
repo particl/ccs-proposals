@@ -35,15 +35,15 @@ To address this critical issue, the Particl team has consulted with a few adviso
 
 # The Treasury Model in Detail
 
-* Proposed yearly inflation rate: **8%**
+* Proposed yearly coin emission rate: **8%**
 * Proposed treasury block rewards: **50%**
 * Proposed total yearly staking rate (APR for stakers): **4%**
 
-This proposal suggests increasing the yearly inflation rate from **2% to 8%** for two years and then **decreasing it by 1% every two years** until it reaches **6% and stays at that level**. Every time the network stakes a block, **50% of the block rewards** would then be redistributed to stakers and **the other 50%, into the Treasury Fund** to fund, support, promote, and grow the project. That amounts to 4% of the total circulating supply every year.
+This proposal suggests increasing the yearly coin emission (staking) rate from **2% to 8%** for two years and then **decreasing it by 1% every two years** until it reaches **6% and stays at that level**. Every time the network stakes a block, **50% of the block rewards** would then be redistributed to stakers and **the other 50%, into the Treasury Fund** to fund, support, promote, and grow the project. That amounts to 4% of the total circulating supply every year.
 
-This brings the **yearly PART staking interest (APY) to a minimum of 4%**. Because APY depends on how many coins are staking on the network, the true APY always ends up being higher than its minimum rate. For example, **if 50%** of all the PART coins are staking on the network, the **staking APY goes from 4% to around 8% yearly**.
+This brings the **yearly PART coin emission (staking) interest (APY) to a minimum of 4%**. Because APY depends on how many coins are staking on the network, the true APY always ends up being higher than its minimum rate. For example, **if 50%** of all the PART coins are staking on the network, the **staking APY goes from 4% to around 8% yearly**.
 
-* **Note:** _Once the yearly inflation rate reaches 6%, it will remain at that level for as long as no other CCS proposal gets pushed and approved by the community._
+* **Note:** _Once the yearly coin emission (staking) rate reaches 6%, it will remain at that level for as long as no other CCS proposal gets pushed and approved by the community._
 
 ## Self-Sustainability
 
@@ -84,3 +84,11 @@ Here are the signatories tasked with managing the treasury fund.
 * **Cryptoguard**
 * **Dasource**
 * **Imran**
+
+# FAQ
+
+**Q: Is the 10% Foundation donation being eliminated when the treasury model goes live?**
+**A: Yes, the treasury model completely replaces the previous funding model.**
+
+**Q: What happens to the treasury funds while they are not used? Are they staking?  Do they vote on proposals?**
+**A: Unused treasury funds simply remain untouched in the Treasury Fund. They are not put up for staking or being used to vote on proposals. Any coin in the Treasury Fund cannot be used, transacted, or staked without the approval of stakeholders.**
