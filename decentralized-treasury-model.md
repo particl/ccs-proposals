@@ -1,6 +1,7 @@
 ---
 layout: fr
 network_vote: yes
+consensus_vote: yes
 title: Decentralized Treasury Model
 author: Cryptoguard
 date: May 14, 2021
