@@ -6,27 +6,27 @@ author: Cryptoguard
 date: June 15, 2021
 amount: 211500 PART
 milestones:
-  - name: August 2021
+  - name: Month 1
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
-  - name: September 2021
+  - name: Month 2
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
-  - name: October 2021
+  - name: Month 3
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
-  - name: November 2021
+  - name: Month 4
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
-  - name: December 2021
+  - name: Month 5
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
-  - name: January 2022
+  - name: Month 6
     funds: 16.66% (35520 PART)
     done:
     status: unfinished
