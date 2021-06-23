@@ -67,9 +67,9 @@ The funds claimed from the treasury by the Particl team will be used for various
 
 The funds will be approximately distributed as follows.
 
-* **Development (60%)**, to fund development and expand the current development team. Resources will also be invested in providing additional resources on areas not currently being focused on as a priority (i.e., Copay, SMSG bots, BasicSwap, hardware development, and so on).
+* **Development (60%)**, to fund the development of the Particl ecosystem and expand the current development team. Resources will also be allocated to work on various items other than Particl Core, Desktop, and Marketplace. This includes, but isn't limited to, Particl Copay, the SMSG network (SMSG 2.0), BasicSwap (atomic swap DEX), web and mobile platforms, and so on).
 
-* **Marketing and community (20%)**, to increase Particl’s brand awareness and exposure within the cryptocurrency, blockchain, e-commerce, and other related industries. Also includes any effort to make the community more vibrant, fun, and engaging place to be.
+* **Marketing and community (20%)**, to increase Particl’s brand awareness and exposure within the cryptocurrency, blockchain, e-commerce, and other related industries. Also includes onboarding new community members, expanding on welcoming efforts on current platforms, as well as expanding social media communities.
 
 * **Management, legal, and administration (8%)**, to fund any administrative or corporate costs (i.e., human resources, accounting, project management, legal costs, corporate fees, etc.).
 
