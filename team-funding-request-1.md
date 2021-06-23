@@ -49,11 +49,11 @@ payouts:
 
 This proposal is a funding request by the Particl team. It requests **35,250 PART per month** from the treasury fund for a period of **6 months only** after which the team will submit a new funding request for a community vote.
 
-**The request follows a model in which PART is calculated at $1**. Calculating the funding requirements of the team at a lower-than-market-rate ensures more stability and protects the team against the volatility in trading markets.
+**The request follows a model in which PART is calculated at $1**. Calculating the funding requirements of the team at a lower-than-market rate ensures more stability and protects the team against the volatility in trading markets.
 
 ### Note
 
-This proposal is purposely kept simple and quick to read. For more details on this proposal and on how the team intends on strategically moving forward, check out the Team Funding Request blog post available on Particl News. 
+This proposal is purposely kept simple and quick to read. For more details on this proposal and on how the team intends on strategically moving forward, check out the [Particl Team Funding Request #1](https://particl.news/particl-team-funding-request-1/) blog post available on Particl News. 
 
 # Rationale
 
@@ -75,7 +75,7 @@ The funds will be approximately distributed as follows.
 
 * **Business development (12%)**, to pursue strategic opportunities, develop partnerships/relationships, and identify/capitalize on new markets for Particl's line of products. This also includes the advisory and exchange listing budgets.
 
-For a more detailed breakdown of how the funds will be used, please refer to the in-depth blog post on this proposal available on Particl News (click here).
+For a more detailed breakdown of how the funds will be used, please refer to the in-depth blog post on this proposal available on Particl News ([click here](https://particl.news/particl-team-funding-request-1/)).
 
 # New Legal Entity
 
