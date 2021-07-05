@@ -1,6 +1,7 @@
 ---
 layout: fr
 network_vote: yes
+treasuryclaim: yes
 title: Team Funding Request
 author: Cryptoguard
 date: June 15, 2021
