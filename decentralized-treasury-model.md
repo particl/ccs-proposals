@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 network_vote: yes
 consensus_vote: yes
 title: Decentralized Treasury Model
@@ -10,7 +10,7 @@ milestones:
   - name: Introduce a decentralized treasury model and treasury fund
     funds: 100% (1 PART)
     done:
-    status: unfinished
+    status: finished
 payouts:
   - date:
     amount:
