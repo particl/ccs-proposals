@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 network_vote: no
 title: Seeding Items to the Marketplace
 author: Ludx and Cryptoguard
