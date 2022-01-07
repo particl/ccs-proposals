@@ -1,0 +1,65 @@
+---
+layout: fr
+network_vote: no
+title: Anon RingCT Transactions Only
+author: particlmike33
+date: Janurary 07, 2022
+amount: 1
+milestones:
+  - name:
+    funds:
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+---
+
+This Proposal is for making the Particl network anon (ringct) transactions only.  No longer would there be an option for public transactions or blind transactions (ct).
+
+With opt-in privacy (like it is now), the devs' work is undermined by the fact that when most people don't opt-in, ringct doesn't do much for the people that do use it.  The anonymity set tanks with opt-in privacy.
+
+If we want the full benefit from the devs' hard work, we need to have only anon transactions.
+
+Our "thing" as a project is a whole suite of privacy tools.  We are a privacy coin.  So we should be as anonymous as possible without the user needing to do anything.  And that's how we'll attract more people to Particl.
+
+We are advertising Particl based on it's superior privacy qualities.  When people come to find out Particl isn't as private as it could be, they will be hesitant to use it.  And we want as many people to join Particl as possible.  That will happen when Particl has the best privacy possible, with only anon transactions.
+
+Unfortunately, Particl over the last few years has mostly slid out of people's view even with all the groundbreaking tech our devs code.  Our devs make more updates than most other projects do, yet most people sadly still don't know we exist.
+
+There's a huge disconnect between how great our code and devs are, and how little people know about us.
+
+Making all transactions anon (ringct) would boost our privacy and anonymity massively, help us get back to our roots of being a go-to privacy coin, and help us get back on the map for the wider crypto community.
+
+Monero did this awhile back and it really helped them.  And they don't even have a marketplace or dex!  And they are based on cryptonote instead of bitcoin like we are!  Yet their marketcap is 200x larger than ours, and daily volume traded is 38,000x larger.
+
+Do you really think we should be valued so much less than monero?  I think not, and having privacy on par/better than monero will help us be valued much greater.
+
+The people that will flock to our community care about privacy, and having opt-in privacy is a huge flaw that hurts us.
+We should be the best we can be, and with only anon transactions, and a marketplace and dex, we would be unstoppable.
+
+The monero subreddit was recently discussing our dex, and while they seemed mostly excited, a couple people did bring up how we only have opt-in privacy, and therefore are not a good privacy project (said in much harsher words).
+
+This shows that people considering joining particl want privacy, and the best privacy possible.  Privacy concerned people don't want to join a system that has flaws that could be simply fixed, like opt-in privacy transactions instead of only anon transactions.  If we are as private as possible, then we have a better chance of people becoming interested in Particl.  Without that, they will turn away just like those people in the monero subreddit did upon finding out our privacy is opt-in.
+
+For anyone that wants opt-in privacy: Why do you want the project to not be as anonymous and secure as possible?  You can't have it both ways, having opt-in privacy hurts the private transactions.  They are not independent of each other.  They are not separate blockchains.
+
+Why just go half way with our privacy tech when the tech is there to go all the way?  With opt-in privacy, we are just getting a bit of the benefits we could be getting from the inventions the dev team have created.
+
+Should we also campaign Tor to be faster but less anonymous, or monero to be more scalable, but less anonymous?  Or Signal Messenger to be better usable but less securely encrypted?
+
+It just doesn't make sense, secure systems are built with security in mind, usability second.
+
+With opt-in privacy we are making security second and usability first instead.
+We are going away from our original ethos, a secure and private system.
+That is what Particl has always been about.
+No one is going to want to buy a privacy coin that isn't that private compared to its competitors.
+No one is going to want to buy a privacy coin that has skimped on it's privacy settings and abilities.
+
+To be competitive, and to be as secure and private as possible, we need to have only anon transactions.
+
+
+
+
+
+This proposal is for a vote.  If most of the community agrees, then we will pass it on to the devs.  I am a community member, not a dev.
