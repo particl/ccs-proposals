@@ -1,0 +1,52 @@
+---
+layout: fr
+network_vote: no
+title: Only Anon Transactions Allowed
+author: particlmike33
+date: January 07, 2022
+amount: 1
+milestones:
+  - name: Introduce a vote for only anon transactions
+    funds: 1
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+---
+
+This Proposal is for making the Particl network anon (ringct) transactions only.  No longer would there be an option for public transactions or blind transactions (ct).
+
+Making Particl only have anon transactions would greatly benefit the anonymity set, and help everyone.
+
+Particl started out as an anonymous coin, and I think that (along with the marketplace and dex) is still our greatest selling point.
+
+Having optional privacy means the weak link is how many people choose to opt-in and send an anon transaction.
+
+With mandatory privacy (like monero switched to awhile back), it means we can rely on the groundbreaking code and work the developers have put into the project.
+
+With opt-in privacy (like it is now), the devs' work is undermined by the fact that if most people don't opt-in, ringct doesn't do much for the people that do use it.
+
+This is the problem with zcash.  They created shielded transactions, but almost no one uses them.  So the work is nearly pointless.
+For the people that do opt-in to use them, their anonymity set is so small since nearly everyone uses transparent public transactions, that the technology is a waste and they aren't anonymous.
+
+Unfortunately, Particl over the last few years has mostly slid out of people's view even with all the groundbreaking tech our devs code.
+Our devs make more updates to our code than most other projects do, and they keep us up to date with bitcoin core's code quicker than nearly every other project, yet most people sadly still don't know we exist.
+
+There's a huge disconnect between how great our code and devs are, and how little people know about us.
+
+Making all transactions anon (ringct) would boost our privacy and anonymity massively, help us get back to our roots of being a go-to privacy coin, and help us get back on the map for the wider crypto community.
+
+Monero did this awhile back and it really helped them.  And they don't even have a marketplace or dex!  And they are based on cryptonote instead of bitcoin like we are!
+
+The people that will flock to our community care about privacy, and having opt-in privacy is a huge flaw that hurts us.
+We should be the best we can be, and with only anon transactions, and a marketplace and dex, we would be unstoppable.
+
+The monero subreddit was recently discussing our dex, and while they seemed mostly excited, a couple people did bring up how we only have opt-in privacy, and therefore are not a good privacy project (said in much harsher words).
+
+This shows that privacy concerned people want the most hardened network possible, and that would be one with only anon transactions.
+
+
+
+
+This proposal is for a vote.  If most of the community agrees, then we will pass it on to the devs.  I am a community member, not a dev.
