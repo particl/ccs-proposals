@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 network_vote: yes
 title: Team Funding Request
 author: Cryptoguard
@@ -24,12 +24,12 @@ milestones:
     status: finished
   - name: Month 5
     funds: 16.66% (35250 PART)
-    done:
-    status: unfinished
+    done: 23 December 2021
+    status: finished
   - name: Month 6
     funds: 16.66% (35250 PART)
-    done:
-    status: unfinished
+    done: 22 January 2022
+    status: finished
 payouts:
   - date: 23 August 2021
     amount: 35250
@@ -39,10 +39,10 @@ payouts:
     amount: 35250
   - date: 22 November 2021
     amount: 35250
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 23 December 2021
+    amount: 35250
+  - date: 22 January 2022
+    amount: 35250
 ---
 
 # Summary
