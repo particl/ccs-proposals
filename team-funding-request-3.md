@@ -87,7 +87,7 @@ This proposal is a funding request by the Particl team. It requests **35,250 PAR
 
 ### Note
 
-This proposal is a brief, summarized version of our comprehensive proposal available [here](https://particl.news/particl-team-funding-request-3/). If you haven't yet done it, please take the time to read the full proposal, which contains all of the details surrounding this funding request, as well as our [newly-announced strategic path forward](https://particl.news/particls-next-evolutionary-leap-forward/) which we'll be following throughout this funding cycle.
+This proposal is a brief, summarized version of our comprehensive proposal available [here](https://particl.news/team-funding-proposal-3). If you haven't yet done it, please take the time to read the full proposal, which contains all of the details surrounding this funding request, as well as our [newly-announced strategic path forward](https://particl.news/particls-next-evolutionary-leap-forward/) which we'll be following throughout this funding cycle.
 
 # Use of Funds
 
@@ -110,5 +110,5 @@ To ensure the proposal is appropriately showing up on your Partyman app, you nee
 
 ## Read More
 
-* To learn more details about the team's proposal, please read the full proposal available [here](https://particl.news/particl-team-funding-request-3/).
+* To learn more details about the team's proposal, please read the full proposal available [here](https://particl.news/team-funding-proposal-3).
 * To know more about the team's strategy moving forward, read the team's major development announcement available [here](https://particl.news/particls-next-evolutionary-leap-forward/).
