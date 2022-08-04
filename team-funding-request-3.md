@@ -97,9 +97,9 @@ With the current PART price in mind, **the Particl team is requesting 35,250 PAR
 
 With better PART prices and liquidity, the extra PART will be used to grow the team and fund various marketing, communications, community, and outreach efforts to promote the ecosystem and its dApps.
 
-# Legal Entity
+## Legal Entity
 
-All funds voted to be allocated to the Particl team are held and managed by SoonTM Development Ltd ([SoonTM.io](https://soontm.io), an independent software development company.
+All funds voted to be allocated to the Particl team are held and managed by SoonTM Development Ltd ([SoonTM.io](https://soontm.io)), an independent software development company.
 
 # How to Vote
 
