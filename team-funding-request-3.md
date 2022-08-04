@@ -1,10 +1,10 @@
 ---
 layout: wip
 network_vote: yes
-title: Team Funding Request
+title: Team Funding Request 3
 author: Cryptoguard
 date: January 11, 2022
-amount: 211500 PART
+amount: 423000 PART
 milestones:
   - name: Month 1
     funds: 8.33% (35250 PART)
