@@ -30,7 +30,7 @@ milestones:
     funds: 8.33% (35250 PART)
     done:
     status: unfinished
-      - name: Month 7
+  - name: Month 7
     funds: 8.33% (35250 PART)
     done:
     status: unfinished
