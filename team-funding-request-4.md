@@ -1,3 +1,86 @@
+---
+layout: wip
+network_vote: yes
+title: Team Funding Request 4
+author: Cryptoguard
+date: August 08, 2023
+amount: 423000 PART
+milestones:
+  - name: Month 1
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 2
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 3
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 4
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 5
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 6
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 7
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 8
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 9
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 10
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+  - name: Month 11
+    funds: 8.33%(35250 PART)
+    done:
+    status: unfinished
+  - name: Month 12
+    funds: 8.33% (35250 PART)
+    done:
+    status: unfinished
+payouts:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+  - date:
+    amount:
+---
+
 # Summary
 
 This proposal is a funding request by the Particl team. It requests **35,250 PART per month** from the treasury fund for a period of **12 months** after which the team will submit a new funding request for a community vote.
