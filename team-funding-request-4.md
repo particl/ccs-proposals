@@ -16,7 +16,7 @@ With better PART prices and liquidity, the extra PART will be used to grow the t
 
 # Legal Entity
 
-All funds voted to be allocated to the Particl team are held and managed by SoonTM Development Ltd ([SoonTM.io](https://soontm.io), an independent software development company.
+All funds voted to be allocated to the Particl team are held and managed by SoonTM Development Ltd ([SoonTM.io)](https://soontm.io), an independent software development company.
 
 # How to Vote
 
