@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: fr
 network_vote: yes
 title: Team Funding Request
 author: Cryptoguard
