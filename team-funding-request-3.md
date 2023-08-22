@@ -1,84 +1,84 @@
 ---
-layout: fr
+layout: cp
 network_vote: yes
 title: Team Funding Request 3
 author: Cryptoguard
-date: January 11, 2022
+date: August 12, 2022
 amount: 423000 PART
 milestones:
   - name: Month 1
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 25 August 2022
+    status: finished
   - name: Month 2
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 September 2022
+    status: finished
   - name: Month 3
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 October 2022
+    status: finished
   - name: Month 4
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 21 November 2022
+    status: finished
   - name: Month 5
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 December 2022
+    status: finished
   - name: Month 6
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 January 2023
+    status: finished
   - name: Month 7
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 February 2023
+    status: finished
   - name: Month 8
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 March 2023
+    status: finished
   - name: Month 9
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 April 2023
+    status: finished
   - name: Month 10
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 21 May 2023
+    status: finished
   - name: Month 11
     funds: 8.33%(35250 PART)
-    done:
-    status: unfinished
+    done: 20 June 2023
+    status: finished
   - name: Month 12
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 July 2023
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 25 August 2022
+    amount: 35250
+  - date: 20 September 2022
+    amount: 35250
+  - date: 20 October 2022
+    amount: 35250
+  - date: 21 November 2022
+    amount: 35250
+  - date: 20 December 2022
+    amount: 35250
+  - date: 20 January 2023
+    amount: 35250
+  - date: 20 February 2023
+    amount: 35250
+  - date: 20 March 2023
+    amount: 35250
+  - date: 20 April 2023
+    amount: 35250
+  - date: 21 May 2023
+    amount: 35250
+  - date: 20 June 2023
+    amount: 35250
+  - date: 20 July 2023
+    amount: 35250
 ---
 
 # Summary
