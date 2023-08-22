@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: fr
 network_vote: yes
 title: Team Funding Request
 author: Cryptoguard
@@ -8,41 +8,41 @@ amount: 211500 PART
 milestones:
   - name: Month 1
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 21 February 2022
+    status: finished
   - name: Month 2
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 March 2022
+    status: finished
   - name: Month 3
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 April 2022
+    status: finished
   - name: Month 4
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 22 May 2022
+    status: finished
   - name: Month 5
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 June 2022
+    status: finished
   - name: Month 6
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 23 July 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 February 2022
+    amount: 35250
+  - date: 20 March 2022
+    amount: 35250
+  - date: 20 April 2022
+    amount: 35250
+  - date: 22 May 2022
+    amount: 35250
+  - date: 20 June 2022
+    amount: 35250
+  - date: 23 July 2022
+    amount: 35250
 ---
 
 
@@ -52,7 +52,7 @@ This proposal is a funding request by the Particl team. It requests **35,250 PAR
 
 ### Note
 
-This proposal is willingly kept brief for the purpose of the CCS system. For more details on this proposal and on how the team intends to strategically moving forward during the first half of 2022, check out the [Particl Team Funding Request #2](https://particl.news/vote-for-second-team-funding-request-is-scheduled/) blog post available on Particl News. 
+This proposal is willingly kept brief for the purpose of the CCS system. For more details on this proposal and on how the team intends to strategically moving forward during the first half of 2022, check out the [Particl Team Funding Request #2](https://particl.news/particl-team-funding-request-2/) blog post available on Particl News. 
 
 # Rationale
 
@@ -74,7 +74,7 @@ The funds will be approximately distributed as follows (more details about fund 
 
 * **Business development (10%)**, to pursue strategic opportunities, develop partnerships/relationships, and identify/capitalize on new markets for Particl's line of products. This also includes the advisory and exchange listing budgets.
 
-For a more detailed breakdown of how the funds will be used, please refer to the in-depth blog post on this proposal available on Particl News ([click here](https://particl.news/vote-for-second-team-funding-request-is-scheduled/)).
+For a more detailed breakdown of how the funds will be used, please refer to the in-depth blog post on this proposal available on Particl News ([click here](https://particl.news/particl-team-funding-request-2/)).
 
 ### Note
 
