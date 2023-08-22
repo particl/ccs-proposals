@@ -1,5 +1,5 @@
 ---
-layout: wip
+layout: cp
 network_vote: yes
 title: Team Funding Request
 author: Cryptoguard
@@ -8,41 +8,41 @@ amount: 211500 PART
 milestones:
   - name: Month 1
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 21 February 2022
+    status: finished
   - name: Month 2
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 March 2022
+    status: finished
   - name: Month 3
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 April 2022
+    status: finished
   - name: Month 4
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 22 May 2022
+    status: finished
   - name: Month 5
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 20 June 2022
+    status: finished
   - name: Month 6
     funds: 16.66% (35520 PART)
-    done:
-    status: unfinished
+    done: 23 July 2022
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 21 February 2022
+    amount: 35250
+  - date: 20 March 2022
+    amount: 35250
+  - date: 20 April 2022
+    amount: 35250
+  - date: 22 May 2022
+    amount: 35250
+  - date: 20 June 2022
+    amount: 35250
+  - date: 23 July 2022
+    amount: 35250
 ---
 
 
