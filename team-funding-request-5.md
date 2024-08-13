@@ -53,7 +53,7 @@ We propose a reduced six-month timeframe, shorter than recent twelve-month propo
 
 ## Note
 
-This is a summarized version of our extensive proposal available [here](https://particl.news/particl-team-funding-request-5/). Please read the full proposal for all details surrounding this funding request.
+This is a summarized version of our extensive proposal available [here](https://particl.news/particl-team-funding-request-5/), which includes our short-to-medium term strategy to generate PART ecosystem revenue and reduce our reliance on the network's treasury model. Please read the full proposal for all details surrounding this funding request.
 
 # Use of Funds
 
