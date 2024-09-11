@@ -1,6 +1,9 @@
 ---
 layout: cp
 network_vote: yes
+network_vote_id: 9
+network_vote_block_height_start: 971400
+network_vote_block_height_end: 976439
 title: Team Funding Request
 author: Cryptoguard
 date: June 15, 2021

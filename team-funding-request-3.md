@@ -1,6 +1,9 @@
 ---
 layout: cp
 network_vote: yes
+network_vote_id: 11
+network_vote_block_height_start: 1245040
+network_vote_block_height_end: 1250079
 title: Team Funding Request 3
 author: Cryptoguard
 date: August 12, 2022

@@ -1,6 +1,9 @@
 ---
 layout: fr
 network_vote: yes
+network_vote_id: 24
+network_vote_block_height_start: 1752531
+network_vote_block_height_end: 1757571
 title: Team Funding Request 5
 author: Cryptoguard
 date: August 13, 2023
