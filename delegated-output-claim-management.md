@@ -1,6 +1,9 @@
 ---
 layout: cp
 network_vote: yes
+network_vote_id: 7
+network_vote_block_height_start: 936128
+network_vote_block_height_end: 941167
 title: Delegated Output Claim Management
 author: Cryptoguard
 date: April 28, 2021

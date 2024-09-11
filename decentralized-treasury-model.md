@@ -1,6 +1,9 @@
 ---
 layout: cp
 network_vote: yes
+network_vote_id: 8
+network_vote_block_height_start: 946184
+network_vote_block_height_end: 956263
 consensus_vote: yes
 title: Decentralized Treasury Model
 author: Cryptoguard
