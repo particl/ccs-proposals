@@ -12,11 +12,11 @@ milestones:
   - name: Month 1
     funds: 16.66% (35250 PART)
     done: 24 September 2024
-    status: unfinished
+    status: finished
   - name: Month 2
     funds: 16.66% (35250 PART)
     done: 24 September 2024
-    status: unfinished
+    status: finished
   - name: Month 3
     funds: 16.66% (35250 PART)
     done:
