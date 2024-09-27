@@ -34,10 +34,10 @@ milestones:
     done:
     status: unfinished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 24 September 2024
+    amount: 35250
+  - date: 24 September 2024
+    amount: 35250
   - date:
     amount:
   - date:
