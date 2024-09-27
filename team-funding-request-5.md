@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: wip
 network_vote: yes
 network_vote_id: 24
 network_vote_block_height_start: 1755500
