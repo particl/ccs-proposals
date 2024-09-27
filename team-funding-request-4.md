@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 network_vote: yes
 network_vote_id: 19
 network_vote_block_height_start: 1493000
@@ -11,77 +11,77 @@ amount: 423000 PART
 milestones:
   - name: Month 1
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 30 August 2023
+    status: finished
   - name: Month 2
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 September 2023
+    status: finished
   - name: Month 3
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 October 2023
+    status: finished
   - name: Month 4
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 November 2023
+    status: finished
   - name: Month 5
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 December 2023
+    status: finished
   - name: Month 6
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 21 january 2024
+    status: finished
   - name: Month 7
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 20 February 2024
+    status: finished
   - name: Month 8
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 22 March 2024
+    status: finished
   - name: Month 9
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 21 April 2024
+    status: finished
   - name: Month 10
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 22 May 2024
+    status: finished
   - name: Month 11
     funds: 8.33%(35250 PART)
-    done:
-    status: unfinished
+    done: 20 June 2024
+    status: finished
   - name: Month 12
     funds: 8.33% (35250 PART)
-    done:
-    status: unfinished
+    done: 21 July 2024
+    status: finished
 payouts:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
-  - date:
-    amount:
+  - date: 30 August 2023
+    amount: 35250
+  - date: 20 September 2023
+    amount: 35250
+  - date: 20 October 2023
+    amount: 35250
+  - date: 20 November 2023
+    amount: 35250
+  - date: 20 December 2023
+    amount: 35250
+  - date: 21 January 2024
+    amount: 35250
+  - date: 20 February 2024
+    amount: 35250
+  - date: 22 March 2024
+    amount: 35250
+  - date: 21 April 2024
+    amount: 35250
+  - date: 22 May 2024
+    amount: 35250
+  - date: 20 June 2024
+    amount: 35250
+  - date: 21 July 2024
+    amount: 35250
 ---
 
 # Summary
