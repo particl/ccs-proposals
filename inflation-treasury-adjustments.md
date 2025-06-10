@@ -48,4 +48,4 @@ The rationale behind this proposal is to transition Particl's $PART token toward
 
 # Full Proposal
 
-To read Dr. Kapil Amarasinghe's proposal in full, navigate to this blog post on Particl News: https://particl.news/disable-treasury-inflation-adjustment
+To read Dr. Kapil Amarasinghe's proposal in full, navigate to this blog post on Particl News: https://particl.news/ccs-proposal-disable-treasury-rewards-and-reduce-emission-rate/
