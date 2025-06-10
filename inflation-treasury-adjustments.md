@@ -7,13 +7,13 @@ network_vote_block_height_end:
 consensus_vote: yes
 title: Network Treasury and Inflation Adjustments
 author: Dr. Kapil Amarasinghe
-date: May 21, 2025
+date: June 10, 2025
 amount: 1 PART
 milestones:
   - name: Disable network rewards going to community treasury and reduce inflation rate
     funds: 100% (1 PART)
     done:
-    status: finished
+    status: unfinished
 payouts:
   - date:
     amount:
