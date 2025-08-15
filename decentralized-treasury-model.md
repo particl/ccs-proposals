@@ -1,5 +1,5 @@
 ---
-layout: fr
+layout: cp
 network_vote: yes
 consensus_vote: yes
 title: Decentralized Treasury Model
