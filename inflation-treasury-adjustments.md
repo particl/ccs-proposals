@@ -1,5 +1,5 @@
 ---
-layout: cp
+layout: fr
 network_vote: yes
 network_vote_id: 25
 network_vote_block_height_start: 
