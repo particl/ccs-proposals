@@ -4,7 +4,6 @@ network_vote: yes
 network_vote_id: 25
 network_vote_block_height_start: 2010550
 network_vote_block_height_end: 2020630
-consensus_vote: yes
 title: Network Treasury and Inflation Adjustments
 author: Dr. Kapil Amarasinghe
 date: June 10, 2025
